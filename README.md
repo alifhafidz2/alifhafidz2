@@ -77,7 +77,7 @@ Saat ini saya berfokus untuk berkembang sebagai:
 
 ## 📫 Contact Me
 
-- Email: lifhafidz82@gmail.com
+- Email: alifhafidz82@gmail.com
 - GitHub: github.com/alifhafidz2
 - Instagram: @alifhafidz97
 - Location: Bandung, Indonesia
