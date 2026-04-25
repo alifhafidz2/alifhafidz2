@@ -1,83 +1,86 @@
-# Hi, I'm Alif Hafidz 👋
+<h1 align="center">Hi 👋, I'm Alif Hafidz</h1>
+<h3 align="center">Odoo Developer | Python Backend | IT Support</h3>
 
-## Odoo Developer | Python Developer | IT Support
-
-Saya adalah Odoo Fullstack Developer dengan pengalaman dalam pengembangan sistem ERP, custom module Odoo, backend development menggunakan Python, database PostgreSQL, serta troubleshooting IT dan jaringan.
-
-Saya memiliki latar belakang IT Support yang membantu saya memahami kebutuhan user, menganalisa masalah teknis, dan memberikan solusi yang efektif.
+<p align="center">
+  <a href="mailto:lifhafidz82@gmail.com">Email</a> •
+  <a href="https://github.com/alifhafidz2">GitHub</a> •
+  <a href="https://instagram.com/alifhafidz97">Instagram</a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-- Odoo Development
-- Python
-- PostgreSQL
-- HTML
-- TypeScript
-- IT Support & Troubleshooting
-- Computer Networking
-- Microsoft Office
-- Git & GitHub
+Saya adalah **Odoo Fullstack Developer** dengan pengalaman dalam pengembangan sistem ERP menggunakan Python dan PostgreSQL.  
+Memiliki background sebagai **IT Support**, sehingga terbiasa memahami kebutuhan user, troubleshooting sistem, dan memberikan solusi yang efektif.
+
+Saya fokus untuk berkembang sebagai **Remote Developer** dan siap berkontribusi dalam tim global.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔹 Odoo Bootcamp / Odoo Development
-Repository: `bootcamp_odoo`
+### 🔹 Odoo Development (bootcamp_odoo)
+📌 Repository: https://github.com/alifhafidz2/bootcamp_odoo  
 
-Project pembelajaran dan pengembangan fitur berbasis Odoo.  
-Fokus pada custom module, backend logic, ORM, dan database PostgreSQL.
-
-**Tech:** Odoo, Python, PostgreSQL
-
----
-
-### 🔹 Sistem Sekolah
-Repository: `sekolah`
-
-Aplikasi sistem sekolah untuk membantu pengelolaan data sekolah secara digital.
-
-**Tech:** Python
+- Custom module development  
+- Backend logic (Python)  
+- ORM & PostgreSQL  
+- ERP system customization  
 
 ---
 
-### 🔹 Family Finance Manager
-Repository: `keuangan-keluarga`
+### 🔹 School Management System (sekolah)
+📌 Repository: https://github.com/alifhafidz2/sekolah  
 
-Aplikasi manajemen keuangan keluarga untuk mencatat pemasukan, pengeluaran, dan membantu monitoring kondisi keuangan.
+- Sistem pengelolaan data sekolah  
+- CRUD data siswa & manajemen sederhana  
 
-**Tech:** TypeScript
+---
+
+### 🔹 Finance Management App (keuangan-keluarga)
+📌 Repository: https://github.com/alifhafidz2/keuangan-keluarga  
+
+- Aplikasi pencatatan keuangan keluarga  
+- Tracking pemasukan & pengeluaran  
 
 ---
 
 ## 🎯 What I Can Do
 
-- Develop custom Odoo modules
-- Build backend features using Python
-- Manage and query PostgreSQL databases
-- Debug and troubleshoot ERP systems
-- Handle IT support issues
-- Support deployment and application maintenance
-- Learn new digital tools quickly
+- Develop custom Odoo modules  
+- Build backend systems using Python  
+- Manage PostgreSQL database  
+- Debug & troubleshoot ERP systems  
+- IT Support (hardware, software, networking)  
+- Basic deployment & maintenance  
 
 ---
 
-## 📌 Career Focus
+## 📈 GitHub Stats
 
-Saat ini saya berfokus untuk berkembang sebagai:
-
-- Odoo Developer
-- Python Backend Developer
-- ERP Developer
-- Remote Developer
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alifhafidz2&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifhafidz2&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- Email: alifhafidz82@gmail.com
-- GitHub: github.com/alifhafidz2
-- Instagram: @alifhafidz97
-- Location: Bandung, Indonesia
+- Email: lifhafidz82@gmail.com  
+- GitHub: https://github.com/alifhafidz2  
+- Instagram: @alifhafidz97  
+- Location: Bandung, Indonesia  
