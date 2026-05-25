@@ -32,16 +32,6 @@ Saya fokus untuk berkembang sebagai **Remote Developer** dan siap berkontribusi 
 
 ## 💼 Featured Projects
 
-### 🔹 Odoo Development (bootcamp_odoo)
-📌 Repository: https://github.com/alifhafidz2/bootcamp_odoo  
-
-- Custom module development  
-- Backend logic (Python)  
-- ORM & PostgreSQL  
-- ERP system customization  
-
----
-
 ### 🔹 School Management System (sekolah)
 📌 Repository: https://github.com/alifhafidz2/sekolah  
 
